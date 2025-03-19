@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.v2
+*.vsidx
+*.cache
+/obj/Debug/net6.0/AppService.GeneratedMSBuildEditorConfig.editorconfig
+/.vs/AppService/FileContentIndex/read.lock
